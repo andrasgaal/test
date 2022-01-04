@@ -1,2 +1,2 @@
 # test
-&lt;script>alert('hah')&lt;/script>
+&lt;script>alert('hah!')&lt;/script>
